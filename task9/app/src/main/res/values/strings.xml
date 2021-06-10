@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task9</string>
+    <string name="api_key">AIzaSyBQwyb0O7z3JVna1ZSKhrxj_egEs0MSdLs</string>
+    <string name="Place_API">AIzaSyBQwyb0O7z3JVna1ZSKhrxj_egEs0MSdLs</string>
+    <string name="title_activity_allplaceactivity">Map</string>
+    <string name="title_activity_showplace">Map</string>
+</resources>
